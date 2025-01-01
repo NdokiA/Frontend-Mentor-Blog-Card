@@ -24,7 +24,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution](https://github.com/NdokiA/Frontend-Mentor-Blog-Card)
-- Live Site URL: [Live Site](https://NdokiA.github.io/Frontend-Mentor-Blog-Card)
+- Live Site URL: [Live Site](https://ndokia.github.io/Frontend-Mentor-Blog-Card)
 
 ## My process
 
